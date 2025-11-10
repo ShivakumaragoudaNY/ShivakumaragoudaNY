@@ -15,7 +15,7 @@ Results-driven Front-End Developer with **3+ years** experience building cross-p
 ## 🧰 Tech Stack
 **Frontend:** React Native, React.js, Expo, TypeScript, Redux, Redux Toolkit, Context API, Styled Components, Material UI, Tailwind CSS  
 **Backend & APIs:** Node.js, Express.js, JWT Authentication, RESTful APIs  
-**Data & Storage:** MySQL, Firebase Realtime DB, AWS S3, AsyncStorage, SQLite  
+**Data & Storage:** MySQL,Mongo DB, Firebase Realtime DB, AWS S3, AsyncStorage, SQLite  
 **Tools:** Git, GitHub, Postman, Xcode, Android Studio, VS Code, Jira, ClickUp  
 **Practices:** Agile, Component-Driven Architecture, Testing, Performance Optimization
 
